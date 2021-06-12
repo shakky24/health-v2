@@ -1,0 +1,11 @@
+body{
+  --health-color: #f4c2c2;
+  --health-background: #e6ecf0;
+}
+
+.App{
+  display:flex;
+  height: 100vh;
+  max-width: 1300px;
+  
+}
